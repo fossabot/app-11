@@ -7,6 +7,8 @@ When you're done, you can delete the content in this README and update the file 
 ---
 
 ## Edit a file
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYAKAMAKA%2Fapp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FYAKAMAKA%2Fapp?ref=badge_shield)
+
 
 You’ll start by editing this README file to learn how to edit a file in Bitbucket.
 
@@ -43,3 +45,6 @@ Use these steps to clone from SourceTree, our client for using the repository co
 4. Open the directory you just created to see your repository’s files.
 
 Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYAKAMAKA%2Fapp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FYAKAMAKA%2Fapp?ref=badge_large)
